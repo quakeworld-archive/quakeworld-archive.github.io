@@ -1,1 +1,2 @@
-# quakeworld-archive.github.io
+# QuakeWorld Archive
+> Preserving QuakeWorld history
