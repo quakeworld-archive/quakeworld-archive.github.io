@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-h1:first-child {
+h1:first-child, .footer {
   display: none;
 }
