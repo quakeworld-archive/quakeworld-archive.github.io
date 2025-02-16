@@ -7,6 +7,7 @@ Contact **XantoM** at Quake.World discord if you have content to share.
 * [Ad Mortem](https://archive.quake.world/admortem/) (2004) - QuakeWorld 4on4 TDM league
 
 ## Clan Websites
+* [Da Swedish Mob](https://archive.quake.world/clans/da-swedish-mob/) (1997)
 * [Fragomatic](https://archive.quake.world/clans/fragomatic/) (2005)
 * [hippushnik](https://archive.quake.world/clans/hippushnik/) (2005)
 * [Hyphen](https://archive.quake.world/clans/hyphen/hyphen.txt) (2005)
