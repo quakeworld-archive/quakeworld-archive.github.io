@@ -19,4 +19,3 @@ Contact **XantoM** at Quake.World discord if you have content to share.
 
 ## Misc
 * [Fragtown](https://archive.quake.world/fragtown/) - Legendary FFA maps series
-* 
