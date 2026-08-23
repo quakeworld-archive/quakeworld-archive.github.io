@@ -5,6 +5,7 @@ Contact **XantoM** at Quake.World discord if you have content to share.
 
 ## Tournaments
 * [Ad Mortem](https://archive.quake.world/admortem/) (2004) - QuakeWorld 4on4 TDM league
+* [The Big 4](https://archive.quake.world/thebig4/) (2025-2026) - QuakeWorld 4on4 TDM league
 
 ## Clan Websites
 * [Da Swedish Mob](https://archive.quake.world/clans/da-swedish-mob/) (1997)
