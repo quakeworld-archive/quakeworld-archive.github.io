@@ -5,6 +5,8 @@ Contact **XantoM** at Quake.World discord if you have content to share.
 
 ## Tournaments
 * [Ad Mortem](https://archive.quake.world/admortem/) (2004) - QuakeWorld 4on4 TDM league
+* [European Quake League (EQL)](https://archive.quake.world/eql/) (2005-2016) - QuakeWorld 4on4 TDM league
+* [Nations Quake Rank (NQR)](https://archive.quake.world/nqr/) (2002-2008) - QuakeWorld 4on4 TDM league
 * [The Big 4](https://archive.quake.world/thebig4/) (2025-2026) - QuakeWorld 4on4 TDM league
 
 ## Clan Websites
@@ -21,3 +23,4 @@ Contact **XantoM** at Quake.World discord if you have content to share.
 ## Misc
 * [Fragtown](https://archive.quake.world/fragtown/) - Legendary FFA maps series
 * [Lame-Ever](https://archive.quake.world/lame-ever/) - Quake Comic
+* [qwdrama](https://archive.quake.world/qwdrama/) - QuakeWorld news, interviews, events, tutorials and more (2006-2009)
