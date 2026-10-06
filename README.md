@@ -5,6 +5,7 @@ Contact **XantoM** at Quake.World discord if you have content to share.
 
 ## Tournaments
 * [Ad Mortem](https://archive.quake.world/admortem/) (2004) - QuakeWorld 4on4 TDM league
+* [Challenge Smackdown](https://archive.quake.world/challenge-smackdown/) (2000-2005) - Multi-region QuakeWorld 4on4 TDM League
 * [European Quake League (EQL)](https://archive.quake.world/eql/) (2005-2016) - QuakeWorld 4on4 TDM league
 * [Nations Quake Rank (NQR)](https://archive.quake.world/nqr/) (2002-2008) - QuakeWorld 4on4 TDM league
 * [The Big 4](https://archive.quake.world/thebig4/) (2025-2026) - QuakeWorld 4on4 TDM league
